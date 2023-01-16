@@ -8,6 +8,8 @@ Install packages
 npm i
 ```
 
+rename **env.example** into **.env**
+
 ## RUN PROJECT
 
 Run development mode
